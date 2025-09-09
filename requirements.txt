@@ -1,5 +1,4 @@
 streamlit>=1.32,<2
 pandas==2.2.2
-# numpy 1.26.x é estável para wheels e funciona com pandas 2.2.x
 numpy==1.26.4
 openpyxl>=3.1,<4
